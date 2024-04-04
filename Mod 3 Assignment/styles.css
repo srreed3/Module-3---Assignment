@@ -1,0 +1,20 @@
+body {
+    background-color: aqua;
+}
+
+p {
+    color: blueviolet;
+}
+
+strong {
+    color: brown;
+}
+
+strong:hover {
+    background-color: green;
+}
+
+.names {
+    font-family: sans-serif;
+    font-size: larger;
+}
